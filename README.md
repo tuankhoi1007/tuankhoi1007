@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm [Tên của bạn] 👋</h1>
+<h1 align="center">Hi there, I'm tuankhoi1007 👋</h1>
 
 <div align="center">
-  <h3>🚀 [Main Role, ví dụ: AI Engineer / Backend Developer]</h3>
+  <h3>🚀 Main role: AI Engineer </h3>
   
   <p>
     🎓 <strong> Ho Chi Minh City University of Technology </strong>
@@ -18,7 +18,7 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuankhoi1007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" height="150" />
 </div>
 
 <br/>
