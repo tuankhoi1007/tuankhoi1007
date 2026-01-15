@@ -4,9 +4,9 @@ My name is Tuan Khoi. I am a Senior AI engineer. I am interested in the followin
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/tuankhoi1007/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tuankhoi1007/)
 
-<h2 align="center">🔥 My Streak & Stats</h2>
+<h2 align="center">📊 My GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuankhoi1007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tuankhoi1007&show_icons=true&theme=tokyonight&hide_border=true" alt="github stats" />
 </div>
 
 <a href="https://github.com/tuankhoi1007/[TEN_REPO_1]/">
