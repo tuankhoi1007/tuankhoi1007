@@ -10,8 +10,10 @@ My name is Tuan Khoi. I am a Senior AI engineer. I am interested in the followin
 </div>
 
 <a href="https://github.com/tuankhoi1007/[TEN_REPO_1]/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=[TEN_REPO_1]&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=Project-01-House-prediction
+&theme=radical" />
 </a>    
 <a href="https://github.com/tuankhoi1007/[TEN_REPO_2]/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=[TEN_REPO_2]&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=Project-01-Snake-Hand
+&theme=merko" />
 </a>
