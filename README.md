@@ -1,16 +1,29 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Tuan Khoi. I am an AI engineer. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
-## 📫 How to reach me: 
+### Hi, I'm Tuan Khoi 👋
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]() 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/tuankhoi1007/) 
-[![Youtube](https://github.com/tuankhoi1007/introduction/blob/main/Youtube.png) Youtube]()
+AI engineer. I work on **computer vision**, **LLMs**, and **reinforcement learning**.
 
+**GitHub:** [tuankhoi1007](https://github.com/tuankhoi1007)
 
+---
 
-![Khoi's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tuankhoi1007&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+### Featured projects
 
-<a href="https://github.com/tuankhoi1007/QuickDraw/](https://github.com/tuankhoi1007/Project-01-Snake-Hand">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuankhoi1007&repo=QuickDraw&theme=radical" />
-</a>    
+<a href="https://github.com/tuankhoi1007/ielts-tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=ielts-tracker&theme=tokyonight" />
+</a>
+<a href="https://github.com/tuankhoi1007/KMS_HACKATHON2026">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=KMS_HACKATHON2026&theme=tokyonight" />
+</a>
+<a href="https://github.com/tuankhoi1007/Project-01-House-prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=Project-01-House-prediction&theme=tokyonight" />
+</a>
+<a href="https://github.com/tuankhoi1007/Project-01-Snake-Hand">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=Project-01-Snake-Hand&theme=tokyonight" />
+</a>
+
+---
+
+### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuankhoi1007&show_icons=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuankhoi1007&layout=compact&theme=tokyonight)
