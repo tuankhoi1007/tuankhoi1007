@@ -2,7 +2,8 @@
 
 AI engineer. I work on **computer vision**, **LLMs**, and **reinforcement learning**.
 
-**GitHub:** [tuankhoi1007](https://github.com/tuankhoi1007)
+- [GitHub](https://github.com/tuankhoi1007)
+- [LinkedIn](https://www.linkedin.com/in/ng%C3%B4-tu%E1%BA%A5n-kh%C3%B4i-69476a409/)
 
 ---
 
