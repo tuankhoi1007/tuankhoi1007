@@ -30,37 +30,45 @@ I build applied ML products — from vision and language models to full-stack ap
 ### Featured work
 
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/tuankhoi1007/KMS_HACKATHON2026">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=KMS_HACKATHON2026&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/tuankhoi1007/ielts-tracker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=ielts-tracker&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/tuankhoi1007/Project-01-Snake-Hand">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=Project-01-Snake-Hand&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/tuankhoi1007/Project-01-House-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tuankhoi1007&repo=Project-01-House-prediction&theme=transparent&hide_border=true" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/tuankhoi1007/KMS_HACKATHON2026">BrainRoot · KMS Hackathon</a></h3>
+<p>LMS with AI — TypeScript full-stack product built for a hackathon.</p>
+<p>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/tuankhoi1007/ielts-tracker">IELTS Tracker</a></h3>
+<p>Personal study dashboard: 32-week roadmap, daily plan, scores, and error log.</p>
+<p>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/tuankhoi1007/Project-01-Snake-Hand">Snake Hand</a></h3>
+<p>Computer-vision game controlled by hand gestures.</p>
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/tuankhoi1007/Project-01-House-prediction">House Price TK01</a></h3>
+<p>Linear-regression model shipped as a web app — first end-to-end ML project.</p>
+<p>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+</td>
+</tr>
 </table>
 
 ---
 
-### GitHub
+### Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tuankhoi1007&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuankhoi1007&layout=compact&theme=transparent&hide_border=true&hide_title=true" />
+  <img alt="GitHub contribution chart" src="https://ghchart.rshah.org/6366f1/tuankhoi1007" />
 </div>
